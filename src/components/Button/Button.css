@@ -1,0 +1,30 @@
+.number {
+    background-color: grey;
+    color: white;
+}
+
+.operation {
+    background-color: black;
+    color: white;
+}
+
+.special {
+    background-color: orange;
+    color: white;
+}
+
+
+.rectangle-h {
+    width: 2em;
+    height: 4em;
+}
+
+.rectangle-v {
+    width: 4em;
+    height: 2em;
+}
+
+.square {
+    width: 2em;
+    height: 2em;
+}
